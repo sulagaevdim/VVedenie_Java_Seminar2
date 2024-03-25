@@ -1,0 +1,18 @@
+мар. 25, 2024 3:57:49 PM Task3 getFileNames
+INFO: Файл не является папкой
+мар. 25, 2024 4:10:04 PM Task3 getFileNames
+INFO: Файл не является папкой
+мар. 25, 2024 4:10:10 PM Task3 getFileNames
+INFO: Файл не является папкой
+мар. 25, 2024 4:10:13 PM Task3 getFileNames
+INFO: Файл не является папкой
+мар. 25, 2024 4:10:17 PM Task3 getFileNames
+INFO: Файл не является папкой
+мар. 25, 2024 4:11:13 PM Task3 writeToFile
+INFO: Случайная ошибка
+мар. 25, 2024 4:11:18 PM Task3 writeToFile
+INFO: Случайная ошибка
+мар. 25, 2024 4:11:20 PM Task3 writeToFile
+INFO: Случайная ошибка
+мар. 25, 2024 4:23:03 PM Task3 getFileNames
+INFO: Файл не является папкой

@@ -1,0 +1,10 @@
+.gitignore
+.idea
+1.txt
+Error.txt
+log.0.0.txt
+log.config
+out
+src
+Task2.txt
+zadaniya.iml
